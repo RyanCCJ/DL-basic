@@ -18,4 +18,5 @@
 
 ### 參考書目
 本教學系列文主要參考 [NVIDIA 官方推薦的書目](https://www.nvidia.com/zh-tw/training/books/)「Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers Using TensorFlow」，或是可以去各大實體或網路通路選購中譯版「跟 NVIDIA 學深度學習」。
+
 ![](reference_book.jpg)
